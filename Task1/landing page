@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Landing page design</title>
+  <link rel="stylesheet" type="text/css" href="vv.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Edu+VIC+WA+NT+Beginner:wght@700&display=swap" rel="stylesheet">
+  
+</head>
+<body>
+<header>
+    <nav class="nav1">
+        <div>
+            <p>
+                Contact:Lake road,behind Sara mall,Pune Phone: 10976768
+            </p>
+        </div>
+        <div>
+            <i class="fa fa-facebook"></i>
+            <i class="fa fa-telegram"></i>
+            <i class="fa fa-google"></i>
+            <i class="fa fa-twitter"></i>
+            <a href="#">signup</a>
+            <a href="#">signin</a>
+
+        </div>
+    </nav>
+    <nav class="nav2">
+        <div>
+            <img src=" ">
+           
+        </div>
+        <div class="menu">
+            <a href="#">Home</a>
+            <a href="#">Admission</a>
+            <a href="#">Courses</a>
+            <a href="#">Students</a>
+            <a href="#">About</a>
+            <a href="#">Event</a>
+            
+        </div>
+    </nav>
+    <div class="h-text">
+        <h1>
+            <h1><span>WELCOME</span>  <span>TO  </span> <span>MUSIC</span> <span>ACADEMY</span></h1>
+            
+        </h1>
+        <p>
+            MUSIC IS THE ART OF THINKING WITH SOUNDS.
+            
+              
+        </p>
+        
+
+        <a href="#">Courses</a>
+        <a href="#">Start free trial</a>
+    </div>
+    
+        
+</header>
+</body>
+</html>

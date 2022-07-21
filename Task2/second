@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang ="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-compatible"content="IE=edge">
+        <meta name="viewport"content="width=device-width,initial-scale=1.0">
+        <title>complete personal portfolio</title>
+        <link rel="stylesheet" type="text/css" href="second2.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Edu+TAS+Beginner:wght@400;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    
+</head>
+<body>
+    <header>
+        <img src="file:///C:/Users/hp/Desktop/v.jpg.jpg">
+        <h3>VEDIKA THORMOTE</h3>
+        <p>programer</p>
+        <a href="#">
+       <i class="fa fa-long-arrow-down arrow"></i>
+        </a>   
+        <nav class="navbar">
+            <ul>
+            <li><a href="#profile">profile</a></li>
+            <li><a href="#skills">skills</a></li>
+            <li><a href="#edu">Education</a></li>
+            <li><a href="#lang">lang</a></li>
+            <li><a href="#contact">contact</a></li>
+            <li><a href="#current-profile">current-profile</a></li>
+            </ul>
+            <div class="box flex"id="profile">
+                <h1>profile skills</h1>
+            </div>
+            
+        </nav>
+        
+     </header>
+     <div class="container">
+        <div class="profile">
+            <h2>My Profile</h2>
+            <p>Hello Guys</p>
+            <p>My Name is <b>VEDIKA THORMOTE</b> and i am from Aurangabad,Maharashtra.I am 20yrs old.Currently i am pursuing my Btech degree.
+             I love to draw painting in free time and also making crafts.
+            </p>
+            <br></br>
+            <a href="">Read More</a>
+        </div>
+        <div class="skills">
+            <div class="skills">
+                <h2>My skills</h2>
+                <div>
+                    <label for="file">HTML:</label>
+    <progress id="file" value="85" max="100"> 85% </progress>
+                </div>
+               <div>
+                <label for="file">CSS:</label>
+    <progress id="file" value="85" max="100"> 85% </progress>
+               </div> 
+               <div>
+                <label for="file">Javascript:</label>
+    <progress id="file" value="85" max="100"> 85% </progress>
+               </div>
+               <div>  <label for="file">Python:</label>
+                <progress id="file" value="80" max="100"> 80% </progress>
+                           </div>
+                        </div>
+        </div>
+        <div class="edu">
+            <h2>Education</h2>
+            <h2>
+                MY QUALIFICATIONS
+            </h2>
+            <p> My name is vedika <br></br>
+                My HSC marks is 80% <br></br>
+                My SSC marks is 92%
+            </p>
+    
+            <br></br>
+            <a href="">download cv</a>
+        </div>
+        <div class="lang">
+            <h2>Languages</h2>
+            <ul>
+                IN WEB DESIGN 
+                <li>MYSQL</li>
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>Javascript</li>
+            </ul>
+            <ul>
+                IN PROGRAMING
+                <li>PYTHON</li>
+                <li>C</li>
+            </ul>
+        </div>
+        <div class="contact">
+            <h2>My Contact</h2>
+            <div>
+                <p>
+                    <i class="fa fa-phone"></i>
+                    965148236
+                </p>
+                <p>
+                    <i class="fa fa-telegram"></i>
+                    Vedika Thormote
+                </p>
+                <p>
+                    <i class="fa fa-envelope"></i>
+                    vedika@gmail.com
+                </p>
+            </div>
+        </div>
+        <div class="current-profile">
+            <h2>
+                current-profile
+            </h2>
+            <p> I am Engineering student willing to obtain a fresher position as a software Engineer.
+                <br></br>
+                 I am  self motivated learn with a eagerness to learn new things and grow.
+            </p>
+        </div>
+        <footer>
+            <i class="fa fa-whatsapp"></i>
+            <i class="fa fa-telegram"></i>
+            <i class="fa fa-instagram"></i>
+            <i class="fa fa-envelope"></i>
+            <h3>Developed by vedika Thormote</h3>
+        </footer>
+     </div>
+     </body>
+     </html>

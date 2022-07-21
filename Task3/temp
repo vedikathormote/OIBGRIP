@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+          <title>
+            Temperature Converter
+          </title>
+          <link rel="stylesheet" type="text/css" href="temp3.css">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+           <link rel="preconnect" href="https://fonts.googleapis.com">
+          <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+          <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Edu+VIC+WA+NT+Beginner:wght@700&display=swap" rel="stylesheet">
+    </head>
+    <body>
+        <header>
+            <h3>Temperature Conversion</h3>
+            <img src="https://www.subjectcoach.com/imagecdn/394251515888515.jpg" width="250" height="450">
+            <img src="https://www.subjectcoach.com/imagecdn/394251515888515.jpg" width="250" height="450" align="right">
+        </header>
+
+       
+        <div class="hash">
+            <div class="Container">
+                <label for= "Celsius">Celsius</label>
+                <input type="number" id="Celsius" oninput="CelToFar()">
+    
+            </div>
+            <div class="Container">
+                <label for= "Fahrenheit">Fahrenheit</label>
+                <input type="number" id="Fahrenheit">
+            </div>
+        </div>
+       
+        <script src="temp4.js"></script>
+    </body>
+</html>
